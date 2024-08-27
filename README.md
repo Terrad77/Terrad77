@@ -1,5 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Dmitry Terlovoi i am Full stack developer.
-<p align="left"> I`ve been learning to code for 1,5 year, after switching careers. I started with HTML, but have really found a passion for backend development.</p>* 🌍  I'm based in Kharkiv, Ukkraine* ✉️  You can contact me at [terlovoy77@gmail.com](mailto:terlovoy77@gmail.com)* 🚀  I'm currently working on [AquaTrack](http://aqua-track.vercel.app/)* 🧠  I'm learning Next.js
+Hi ![Wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Dmitry Terlovoi, I am a Full Stack developer.
+
+<p align="left">I've been learning to code for 1.5 years, after switching careers. I started with HTML, but have really found a passion for backend development.</p>
+
+* 🌍  I'm based in [Kharkiv, Ukraine](https://www.google.com/maps/place/Kharkiv,+Kharkiv+Oblast,+Ukraine)
+* ✉️  You can contact me at &nbsp;&nbsp; [terlovoy77@gmail.com](mailto:terlovoy77@gmail.com) 🤝
+* I'm currently working on [Aqua-Track](http://aqua-track.vercel.app/)  
+* 🧠  I'm learning Next.js
 
 ### Skills
 
