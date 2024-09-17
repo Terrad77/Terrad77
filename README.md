@@ -4,8 +4,8 @@ Hi there ![Wave](https://user-images.githubusercontent.com/18350557/176309783-07
 
 * 🌍  I'm based in [Kharkiv, Ukraine](https://www.google.com/maps/place/Kharkiv,+Kharkiv+Oblast,+Ukraine)
 * ✉️  You can contact me at &nbsp;&nbsp; [terlovoy77@gmail.com](mailto:terlovoy77@gmail.com) 🤝
-* I'm currently working on [Aqua-Track](http://aqua-track.vercel.app/)  
-* 🧠  I'm learning Next.js
+* I'm resently worked on [Aqua-Track](http://aqua-track.vercel.app/)  
+* 🧠  I'm learning SASS, Next.js
 
 ### Skills
 
