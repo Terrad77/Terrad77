@@ -1,4 +1,4 @@
-Hi there ![Wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Dmitry Terlovoi, I am a Full Stack developer.
+Hi there [Wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)! My name is Dmitry Terlovoi, I am a Full Stack developer.
 
 <p align="left">I've been learning to code for 1.5 years, after switching careers. I started with HTML, but have really found a passion for backend development.</p>
 
