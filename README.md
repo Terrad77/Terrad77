@@ -1,4 +1,4 @@
-<h1>This «thing» is under construction... 👨‍🎨</h1>
+<h1>This block is under construction... 👨‍🎨</h1>
 
 ## Hi there! ![Wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I`m Dmitry, Full Stack developer.
 
