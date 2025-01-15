@@ -7,7 +7,7 @@
 - 🌍 I'm based in [Kharkiv, Ukraine](https://www.google.com/maps/place/Kharkiv,+Kharkiv+Oblast,+Ukraine)
 - ✉️ You can contact me at &nbsp;&nbsp; [terlovoy77@gmail.com](mailto:terlovoy77@gmail.com) 🤝
 - I'm resently worked on [Aqua-Track](http://aqua-track.vercel.app/)
-- 🧠 I'm learning SASS, Tailwind CSS, Next.js
+- 🧠 I'm learning SASS, Tailwind CSS, Next.js, RN
 
 ### My stack
 
