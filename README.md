@@ -2,11 +2,11 @@
 
 ## Hi there! ![Wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I`m Dmitry, Full Stack developer & Software Engineer.
 
-<p align="left">I've been learning to code for 1.5 years, after switching careers. I started with HTML, but have really found a passion for backend development.</p>
+<p align="left">I began my software development journey 3 years ago with a successful career transition. I'm currently working towards my Bachelor's degree in Software Engineering and dedicated to mastering new technologies.
+Open to collaboration and exciting new projects!)</p>
 
 - 🌍 I'm based in [Kharkiv, Ukraine](https://www.google.com/maps/place/Kharkiv,+Kharkiv+Oblast,+Ukraine)
 - ✉️ You can contact me at &nbsp;&nbsp; [terlovoy77@gmail.com](mailto:terlovoy77@gmail.com) 🤝
-- I'm resently worked on [Aqua-Track](http://aqua-track.vercel.app/)
 - 🧠 I'm learning SASS, Tailwind CSS, Next.js, RN
 
 ### My stack
