@@ -1,9 +1,14 @@
 <h1>This block is under construction... 👨‍🎨</h1>
 
-## Hi there! ![Wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I`m Dmitry, Full Stack developer & Software Engineer.
+## Hi there! ![Wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I`m Dmitry, Full Stack Developer & Software Engineer.
 
-<p align="left">I began my software development journey 3 years ago with a successful career transition. I'm currently working towards my Bachelor's degree in Software Engineering and dedicated to mastering new technologies.
-Open to collaboration and exciting new projects!)</p>
+<p align="left">
+<b>From Economics to Software Engineering.</b>
+<br>
+In 2021, I transitioned from a leadership career in Economics and Supply Chain to building software. This background gives me a unique advantage in understanding business logic, data-driven decisions, and system efficiency.
+<br><br>
+Currently pursuing a Bachelor's degree in Software Engineering, focusing on <b>scalable web applications</b> and <b>distributed systems</b>. I’m passionate about clean architecture and performance optimization.
+</p>
 
 - 🌍 I'm based in [Kharkiv, Ukraine](https://www.google.com/maps/place/Kharkiv,+Kharkiv+Oblast,+Ukraine)
 - ✉️ You can contact me at &nbsp;&nbsp; [terlovoy77@gmail.com](mailto:terlovoy77@gmail.com) 🤝
