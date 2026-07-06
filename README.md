@@ -22,8 +22,8 @@ Full Stack Developer with an M.Sc. in Economics and a B.Sc. in Computer Science.
 ### 🚀 Featured Projects
 
 - 📅 **[Calendar App](https://github.com/Terrad77/calendar-app).** — Full-Stack App (React, Express, PostgreSQL)
-- 💼 **[CRM Next.js Project](https://github.com)** — CRM (Next.js, TS)
-- 💰 **[Wallet App](https://github.com)** — Finance app (Vite, TS)
+- 💼 **[CRM Next.js Project](https://github.com/Terrad77/crm-next_js-project)** — CRM (Next.js, TS)
+- 💰 **[Wallet App](https://github.com/Terrad77/wallet-app-vite)** — Finance app (Vite, TS)
 
 ---
 
