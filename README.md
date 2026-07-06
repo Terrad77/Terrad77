@@ -1,7 +1,7 @@
 # Hi there! I'm Dmitry 👋 
 ### Full Stack Developer | Computer Science Graduate from KhAI 🎓
 
-I am a Full Stack Developer passionate about building high-performance web applications, scalable backends, and seamless user experiences. With a background in Economics and a B.Sc. in Computer Science, I bridge the gap between complex business logic and robust software architecture.
+Full Stack Developer with an M.Sc. in Economics and a B.Sc. in Computer Science. Professionally bridging the gap between complex business logic and robust software architecture. Passionate about building high-performance web applications, scalable backends, and seamless user experiences.
 
 - 🌍 Based in **Kharkiv, Ukraine**
 - ✉️ Reach me at: **terlovoy77@gmail.com**
