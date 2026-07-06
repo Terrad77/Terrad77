@@ -21,8 +21,10 @@ Full Stack Developer with an M.Sc. in Economics and a B.Sc. in Computer Science.
 
 ### 📈 GitHub Stats
 
-![Dmitry's GitHub Stats](https://vercel.app)
-![Top Langs](https://vercel.app)
+<p align="left">
+  <img src="https://vercel.app" alt="Dmitry's GitHub Stats" height="180px" />
+  <img src="https://vercel.app" alt="Top Langs" height="180px" />
+</p>
 
 
 
