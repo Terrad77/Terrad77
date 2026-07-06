@@ -19,11 +19,19 @@ Full Stack Developer with an M.Sc. in Economics and a B.Sc. in Computer Science.
 
 ---
 
+### 🚀 Featured Projects
+
+- 📅 **[Calendar App](https://github.com)** — Full-Stack App (React, Express, PostgreSQL)
+- 💼 **[CRM Next.js Project](https://github.com)** — CRM (Next.js, TS)
+- 💰 **[Wallet App](https://github.com)** — Finance app (Vite, TS)
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://vercel.app" alt="Dmitry's GitHub Stats" height="180px" />
-  <img src="https://vercel.app" alt="Top Langs" height="180px" />
+  <img src="https://vercel.app" alt="Dmitry's GitHub Stats" />
+  <img src="https://vercel.app" alt="Top Langs" />
 </p>
 
 
